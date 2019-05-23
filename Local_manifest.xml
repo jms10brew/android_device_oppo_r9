@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="device/oppo/r9" name="jms10brew/android_device_oppo_r9" remote="github" revision="cm-12.1" />
+  <project path="vendor/oppo/r9" name="jms10brew/android_vendor_oppo_r9" remote="github" revision="master" />
+</manifest>
